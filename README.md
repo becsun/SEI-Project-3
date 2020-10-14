@@ -110,13 +110,17 @@ Example of ternary conditional rendering
 
 ---
 
-## :trophy: Wins
+## :trophy: Wins and Challenges
 
 - Along with our own MongoDB we also called **another 2 APIs: one for the weather & one for the tidal conditions.**
 - The challenge was to create a function that would allow us to **implement the latitude & longitude** available from our Seed file inside the API URL.
 - If extracting information from an API targeting one geolocation wasn’t too difficult, doing it for locations all over the world was a major headache but an **incredible learning curve.**
 
 <img src="readmeAssets/apiView.png" alt="weatherApi" width="500" />
+
+
+## Future Developments
+There is a possibility of implementing an e-commerce feature where surfers are able to buy surf gear and also recommend it to other memebers. 
 
 ## :tada: Sources
 
