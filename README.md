@@ -118,6 +118,8 @@ Example of ternary conditional rendering
 
 <img src="readmeAssets/apiView.png" alt="weatherApi" width="500" />
 
+## :exclamation:Key Learning
+Communication is key when working in groups. This was made very clear to us when we were merging our work to the development branch. We definitely got the hang of things after our first set of conflicts. 
 
 ## Future Developments
 There is a possibility of implementing an e-commerce feature where surfers are able to buy surf gear and also recommend it to other memebers. 
